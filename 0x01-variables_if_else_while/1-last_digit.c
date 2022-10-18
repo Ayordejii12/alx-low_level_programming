@@ -7,7 +7,7 @@
  * Description: function that randomly assign numbers to n,
  * determine if the last digit is greater than 5,
  * equal to 0, or less than 6.
- * Return: 0 
+ * Return: 0
  */
 
 int main(void)
